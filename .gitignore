@@ -1,0 +1,13 @@
+.vscode/*
+!.vscode/extensions.json
+node_modules/
+.env
+__pycache__/
+*.py[cod]
+.agents/
+.claude/
+backend/app/frontend/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
